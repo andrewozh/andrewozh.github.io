@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevops_sandbox=self.webpackChunkdevops_sandbox||[]).push([[1468],{8051:s=>{s.exports=JSON.parse('{"tag":{"label":"kong","permalink":"/docs/tags/kong","allTagsPath":"/docs/tags","count":1,"items":[{"id":"networking/ingress/kong","title":"kong","description":"","permalink":"/docs/networking/ingress/kong"}],"unlisted":false}}')}}]);

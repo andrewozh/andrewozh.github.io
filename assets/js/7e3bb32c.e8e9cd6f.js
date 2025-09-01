@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevops_sandbox=self.webpackChunkdevops_sandbox||[]).push([[8224],{5402:s=>{s.exports=JSON.parse('{"tag":{"label":"istio","permalink":"/docs/tags/istio","allTagsPath":"/docs/tags","count":1,"items":[{"id":"networking/service-mesh/istio","title":"istio","description":"","permalink":"/docs/networking/service-mesh/istio"}],"unlisted":false}}')}}]);
